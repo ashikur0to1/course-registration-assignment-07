@@ -1,0 +1,65 @@
+[
+    {
+      "course_img": "https://i.ibb.co/SBCKGZz/Rectangle-2.png",
+      "course_name": "Introduction to OOP Python",
+      "course_details": "This course will teach you how to model problems by using object-oriented programming (OOP) concepts.",
+      "price": 15000,
+      "credit": 5
+    },
+    {
+      "course_img": "https://i.ibb.co/jLRyTdr/Rectangle-2-1.png",
+      "course_name": "Database (MySQL)",
+      "course_details": "Learn SQL and Database Development to work effectively in DBMS like MySQL, SQL Server, Oracle, PostgreSQL, DB2 etc.",
+      "price": 25000,
+      "credit": 4
+    },
+    {
+      "course_img": "https://i.ibb.co/M7B0tgd/Rectangle-2-2.png",
+      "course_name": "Introduction to C Programming",
+      "course_details": "Learn the C programming language and its fundamental programming concepts and gain the knowledge to write.",
+      "price": 10000,
+      "credit": 3
+    },
+    {
+      "course_img": "https://i.ibb.co/tBZ6pQ8/Rectangle-2-3.png",
+      "course_name": "Introduction to Algorithm",
+      "course_details": "This course covers the common algorithms, algorithmic paradigms, and data structures used to solve problems.",
+      "price": 35000,
+      "credit": 2
+    },
+    {
+      "course_img": "https://i.ibb.co/YP994FW/Rectangle-2-4.png",
+      "course_name": "Introduction to C++ for DSA",
+      "course_details": "This is a basic course that aims at providing basic information and skills of C++ language to the scholars.",
+      "price": 19000,
+      "credit": 10
+    },
+    {
+      "course_img": "https://i.ibb.co/3B6R7Nw/Rectangle-2-5.png",
+      "course_name": "Software Engineering",
+      "course_details": "Software Engineering courses teach the creation of Software Applications with the view of meeting certain requirements.",
+      "price": 23000,
+      "credit": 5
+    },
+    {
+      "course_img": "https://i.ibb.co/5W1kvTn/Rectangle-2-6.png",
+      "course_name": "Problem Solving Part",
+      "course_details": "Computational thinking is the process of approaching a problem in a systematic manner and creating a solution.",
+      "price": 20000,
+      "credit": 2
+    },
+    {
+      "course_img": "https://i.ibb.co/2hcbVq3/Rectangle-3.png",
+      "course_name": "Basic Data Structures",
+      "course_details": "A good algorithm usually comes together with a set of good data structures that allow to manipulate the data efficiently.",
+      "price": 12000,
+      "credit": 5
+    },
+    {
+      "course_img": "https://i.ibb.co/mGz3qYQ/Rectangle-3-1.png",
+      "course_name": "AWS, Cloud Computing",
+      "course_details": "This specialization gives an overview of the features, benefits, and capabilities of Amazon Web Services (AWS).",
+      "price": 30000,
+      "credit": 3
+    }
+  ]
